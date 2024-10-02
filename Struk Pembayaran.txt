@@ -1,0 +1,18 @@
+==========================
+Struk Pembayaran BinarFud
+==========================
+
+Terima kasih sudah memesan di BinarFud
+
+Di bawah ini adalah pesanan anda:
+
+Nama Makanan       Qty   Total
+--------------------------------
+Nasi Goreng          3 45000
+Es Jeruk             2 10000
+--------------------------------
+Pembayaran: BinarCash
+
+==========================
+Simpan struk ini sebagai bukti pembayaran
+==========================
